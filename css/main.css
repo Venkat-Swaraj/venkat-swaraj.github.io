@@ -32,7 +32,7 @@ html {
 
 /* 3. Specific */
 .wallpaper {
-    background-image: url("../image/BG.jpg");
+    background-image: url("../image/BG-min.jpg");
     background-position: center;
     background-size: cover;
     opacity: 0.2;
